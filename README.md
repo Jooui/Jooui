@@ -35,6 +35,7 @@ I'm Joel and I am currently finishing Web Application Developer course at IES l'
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
 </p>
 <br />
+<br />
 <p align="center">
 Check out my repos ⬇️ 
 </p>
